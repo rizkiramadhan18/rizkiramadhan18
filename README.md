@@ -10,9 +10,9 @@
 
 ```
 - 🤔 Hai My name is Muhammad Rizki Ramadhan.
-- 🙎‍♂ I am 16 years old.
+- 🙎‍♂ I am 17 years old.
 - 😄 I live in Indonesia in Sumatra-Selatan.
-- ⚡ My hobbies are playing football and basketball.
+- ⚡ My hobbies are atletik.
 - 👀 I'm currently focusing on JavaScript.
 - 📝 I'm currently working on (https://rr018.vercel.app)
 ```
@@ -26,7 +26,6 @@
 
  - [Donasi](https://rizkiramadhan4617.github.io/donasi)
  - [Saweria](https://saweria.co/RR018)
-
  - [Pulsa](https://api.whatsapp.com/send?phone=+6285788555068&text=Pulsa=085788555068)
 
   </tr>
