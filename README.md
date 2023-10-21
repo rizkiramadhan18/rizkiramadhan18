@@ -37,6 +37,6 @@
     Contact Me
     </summary>
   
-  [![Youtube_Badge](https://img.shields.io/badge/-RR018-black?style=flat&logo=youtube&logoColor=white)](https://youtube.com/channel/UCxV6HGfaKAojH029ZcD_WJg) [![Instagram_Badge](https://img.shields.io/badge/-@s4mpah.story-black?style=flat&logo=instagram&logoColor=white)](https://instagram.com/s4mpah.story) [![Mail Badge](https://img.shields.io/badge/-light.046r-black?style=flat&logo=gmail&logoColor=white)](mailto:light.046r@gmail.com)
+  [![Youtube_Badge](https://img.shields.io/badge/-RR018-black?style=flat&logo=youtube&logoColor=white)](https://youtube.com/channel/UCxV6HGfaKAojH029ZcD_WJg) [![Instagram_Badge](https://img.shields.io/badge/-@rizkii.018-black?style=flat&logo=instagram&logoColor=white)](https://instagram.com/s4mpah.story) [![Mail Badge](https://img.shields.io/badge/-rizkiramadhan281878-black?style=flat&logo=gmail&logoColor=white)](mailto:light.046r@gmail.com)
   
    </details>
