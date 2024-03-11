@@ -26,8 +26,6 @@
   <tr>
 
  - [Donasi](https://rizkiramadhan4617.github.io/donasi)
- - [Saweria]()
- - [Pulsa](https://api.whatsapp.com/send?phone=+6285788555068&text=Pulsa=085788555068)
 
   </tr>
 </table>
