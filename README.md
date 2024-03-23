@@ -1,5 +1,5 @@
 
-*Heello!*
+*Heello!*.
   
 <p align="center">
 <img src="https://i.postimg.cc/jdLhzRt0/IMG-20221015-234607-143.jpg" width="243" height="275"/>
